@@ -1,0 +1,7 @@
+D:\ElevenFiftyProjects\IfElseNesting\IfElseNesting\bin\Debug\IfElseNesting.exe.config
+D:\ElevenFiftyProjects\IfElseNesting\IfElseNesting\bin\Debug\IfElseNesting.exe
+D:\ElevenFiftyProjects\IfElseNesting\IfElseNesting\bin\Debug\IfElseNesting.pdb
+D:\ElevenFiftyProjects\IfElseNesting\IfElseNesting\obj\Debug\IfElseNesting.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\IfElseNesting\IfElseNesting\obj\Debug\IfElseNesting.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\IfElseNesting\IfElseNesting\obj\Debug\IfElseNesting.exe
+D:\ElevenFiftyProjects\IfElseNesting\IfElseNesting\obj\Debug\IfElseNesting.pdb
